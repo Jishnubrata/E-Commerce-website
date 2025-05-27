@@ -184,7 +184,7 @@ Future Enhancements
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Support
-For support and questions, please open an issue in the GitHub repository or contact [your-email@example.com].
+For support and questions, please open an issue in the GitHub repository or contact [gjishnubrata@gmail.com].
 Acknowledgments
 
 Thanks to all contributors who helped build this project
